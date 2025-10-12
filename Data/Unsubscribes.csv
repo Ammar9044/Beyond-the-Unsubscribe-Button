@@ -1,0 +1,1517 @@
+unsubscribe_id,user_id,campaign_id,unsubscribe_date,reason
+1,3231,1,2024-02-09,Found better brand
+2,3533,1,2024-01-16,Privacy concerns
+3,818,1,2024-04-27,Found better brand
+4,2176,1,2024-01-01,Privacy concerns
+5,3023,1,2024-09-03,Other
+6,572,1,2024-04-17,Privacy concerns
+7,4032,1,2024-09-28,Privacy concerns
+8,4400,1,2024-03-22,Other
+9,3524,1,2024-01-01,Found better brand
+10,788,1,2024-01-01,Not relevant
+11,2464,1,2024-09-13,Privacy concerns
+12,1712,1,2024-03-02,Other
+13,2712,1,2024-01-01,Other
+14,2625,1,2024-04-23,Found better brand
+15,1894,1,2024-01-01,Found better brand
+16,3722,1,2024-01-13,Other
+17,2280,1,2024-01-01,Other
+18,1082,1,2024-06-20,Other
+19,3257,1,2024-01-01,Not relevant
+20,702,1,2024-01-01,Privacy concerns
+21,1411,1,2024-01-01,Other
+22,415,1,2024-09-04,Found better brand
+23,2598,1,2024-01-01,Other
+24,3773,1,2024-04-17,Other
+25,1186,1,2024-01-01,Too many emails
+26,664,1,2024-03-22,Other
+27,3507,1,2024-07-28,Found better brand
+28,304,1,2024-01-01,Found better brand
+29,1706,1,2024-01-17,Found better brand
+30,2551,1,2024-02-06,Found better brand
+31,4934,1,2024-01-01,Not relevant
+32,2077,1,2024-01-01,Not relevant
+33,2499,1,2024-05-02,Not relevant
+34,2750,1,2024-01-01,Other
+35,3559,1,2024-01-01,Privacy concerns
+36,1914,1,2024-04-24,Found better brand
+37,4064,1,2024-02-05,Too many emails
+38,2208,1,2024-04-28,Privacy concerns
+39,4945,1,2024-01-01,Too many emails
+40,1355,1,2024-01-01,Not relevant
+41,2548,1,2024-01-01,Not relevant
+42,4247,1,2024-01-01,Other
+43,4560,1,2024-09-24,Not relevant
+44,2662,1,2024-08-09,Found better brand
+45,474,1,2024-09-16,Privacy concerns
+46,1209,1,2024-06-03,Privacy concerns
+47,776,1,2024-02-28,Privacy concerns
+48,1576,1,2024-01-01,Privacy concerns
+49,1108,1,2024-07-18,Privacy concerns
+50,553,1,2024-01-24,Found better brand
+51,1310,1,2024-03-24,Found better brand
+52,4146,1,2024-07-20,Found better brand
+53,2103,1,2024-04-07,Privacy concerns
+54,1359,1,2024-01-01,Other
+55,982,1,2024-01-01,Not relevant
+56,2648,1,2024-02-22,Not relevant
+57,3373,1,2024-01-01,Not relevant
+58,4865,1,2024-04-07,Not relevant
+59,4032,1,2024-01-01,Other
+60,4949,1,2024-02-07,Not relevant
+61,4279,1,2024-01-01,Found better brand
+62,141,1,2024-05-05,Found better brand
+63,276,1,2024-01-01,Too many emails
+64,374,1,2024-01-01,Other
+65,3821,1,2024-07-28,Not relevant
+66,3532,1,2024-01-01,Other
+67,1399,1,2024-03-10,Found better brand
+68,4198,1,2024-02-12,Other
+69,4194,1,2024-01-01,Other
+70,2613,1,2024-04-24,Not relevant
+71,1682,1,2024-05-09,Other
+72,2071,1,2024-02-20,Not relevant
+73,3482,1,2024-01-01,Not relevant
+74,1680,1,2024-04-03,Found better brand
+75,1907,1,2024-01-01,Too many emails
+76,562,1,2024-09-15,Other
+77,115,1,2024-08-04,Privacy concerns
+78,2240,1,2024-01-01,Privacy concerns
+79,1816,1,2024-04-17,Privacy concerns
+80,2121,1,2024-01-01,Too many emails
+81,2025,1,2024-08-24,Other
+82,1584,1,2024-01-30,Privacy concerns
+83,3174,1,2024-01-01,Found better brand
+84,395,1,2024-01-01,Other
+85,4456,1,2024-01-01,Privacy concerns
+86,2642,1,2024-08-09,Privacy concerns
+87,2117,1,2024-01-01,Not relevant
+88,1659,2,2024-06-23,Too many emails
+89,4442,2,2024-08-04,Other
+90,3397,2,2024-01-01,Found better brand
+91,2697,2,2024-07-09,Other
+92,3580,2,2024-03-17,Found better brand
+93,3437,2,2024-01-15,Not relevant
+94,3939,2,2024-01-01,Too many emails
+95,1594,2,2024-01-01,Found better brand
+96,4650,2,2024-01-01,Other
+97,1492,2,2024-06-29,Found better brand
+98,4309,2,2024-01-01,Not relevant
+99,4277,2,2024-01-01,Other
+100,1865,2,2024-01-01,Other
+101,4909,2,2024-07-11,Privacy concerns
+102,403,2,2024-01-01,Too many emails
+103,4417,2,2024-05-10,Found better brand
+104,1796,2,2024-08-21,Not relevant
+105,3772,2,2024-01-01,Other
+106,497,2,2024-03-07,Other
+107,3386,2,2024-02-06,Other
+108,1429,2,2024-05-20,Not relevant
+109,2090,2,2024-01-01,Found better brand
+110,1003,2,2024-01-02,Too many emails
+111,167,2,2024-08-19,Other
+112,3452,2,2024-01-01,Not relevant
+113,3628,2,2024-01-01,Too many emails
+114,3715,2,2024-01-01,Privacy concerns
+115,1651,2,2024-03-12,Too many emails
+116,3935,2,2024-05-18,Privacy concerns
+117,1423,2,2024-01-01,Not relevant
+118,1010,2,2024-09-20,Not relevant
+119,2515,2,2024-02-12,Too many emails
+120,3482,2,2024-04-30,Privacy concerns
+121,2034,2,2024-06-09,Other
+122,2888,2,2024-01-14,Not relevant
+123,4677,2,2024-07-17,Privacy concerns
+124,4601,2,2024-08-05,Not relevant
+125,2163,2,2024-02-01,Too many emails
+126,586,2,2024-09-14,Not relevant
+127,3085,2,2024-01-19,Other
+128,297,2,2024-01-01,Other
+129,4019,2,2024-01-01,Privacy concerns
+130,176,2,2024-03-28,Too many emails
+131,4695,2,2024-04-17,Other
+132,4773,2,2024-05-08,Privacy concerns
+133,3614,2,2024-01-01,Too many emails
+134,1558,2,2024-04-03,Not relevant
+135,3541,2,2024-05-14,Other
+136,2733,2,2024-08-29,Not relevant
+137,121,2,2024-04-06,Found better brand
+138,1003,2,2024-01-01,Not relevant
+139,506,2,2024-05-20,Found better brand
+140,2440,2,2024-09-22,Not relevant
+141,561,2,2024-01-26,Other
+142,1653,2,2024-05-31,Found better brand
+143,3653,2,2024-01-07,Other
+144,427,2,2024-01-01,Found better brand
+145,622,2,2024-01-06,Not relevant
+146,3420,2,2024-05-28,Privacy concerns
+147,208,2,2024-03-05,Other
+148,3987,2,2024-09-11,Found better brand
+149,3708,2,2024-01-01,Not relevant
+150,3940,2,2024-09-04,Found better brand
+151,4020,2,2024-01-01,Too many emails
+152,1151,2,2024-08-09,Too many emails
+153,3428,2,2024-09-16,Not relevant
+154,4185,2,2024-01-01,Privacy concerns
+155,726,2,2024-01-02,Other
+156,4575,2,2024-01-01,Too many emails
+157,564,2,2024-05-02,Privacy concerns
+158,4606,2,2024-08-30,Too many emails
+159,3841,2,2024-01-02,Not relevant
+160,1352,2,2024-01-01,Privacy concerns
+161,636,2,2024-02-19,Too many emails
+162,1245,2,2024-01-01,Not relevant
+163,2672,2,2024-09-04,Privacy concerns
+164,1628,2,2024-01-01,Too many emails
+165,3455,2,2024-01-10,Privacy concerns
+166,1955,2,2024-03-16,Found better brand
+167,4780,2,2024-01-01,Privacy concerns
+168,3538,2,2024-01-01,Privacy concerns
+169,3916,2,2024-01-11,Too many emails
+170,930,2,2024-01-01,Found better brand
+171,4091,2,2024-05-25,Too many emails
+172,4306,2,2024-01-01,Too many emails
+173,1273,2,2024-01-01,Other
+174,587,2,2024-01-01,Not relevant
+175,4677,2,2024-09-15,Privacy concerns
+176,4341,3,2024-01-01,Other
+177,4042,3,2024-01-01,Too many emails
+178,4992,3,2024-05-31,Other
+179,4487,3,2024-01-06,Privacy concerns
+180,2827,3,2024-01-01,Too many emails
+181,876,3,2024-07-01,Found better brand
+182,2689,3,2024-01-01,Other
+183,2852,3,2024-01-01,Too many emails
+184,197,3,2024-07-09,Found better brand
+185,910,3,2024-05-13,Found better brand
+186,91,3,2024-02-02,Too many emails
+187,2036,3,2024-05-09,Privacy concerns
+188,3081,3,2024-01-15,Too many emails
+189,2483,3,2024-01-01,Found better brand
+190,4625,3,2024-06-28,Too many emails
+191,3149,3,2024-08-05,Not relevant
+192,3353,3,2024-06-02,Privacy concerns
+193,1375,3,2024-01-01,Other
+194,4113,3,2024-01-01,Too many emails
+195,4120,3,2024-01-01,Not relevant
+196,629,3,2024-01-01,Found better brand
+197,4335,3,2024-01-01,Found better brand
+198,2388,3,2024-08-28,Not relevant
+199,3348,3,2024-01-31,Privacy concerns
+200,1644,3,2024-07-08,Other
+201,699,3,2024-01-01,Privacy concerns
+202,612,3,2024-07-01,Found better brand
+203,1155,3,2024-01-01,Other
+204,4242,3,2024-05-20,Too many emails
+205,2316,3,2024-08-19,Found better brand
+206,2681,3,2024-01-01,Not relevant
+207,4229,3,2024-03-17,Found better brand
+208,3004,3,2024-02-06,Found better brand
+209,450,3,2024-01-01,Not relevant
+210,3009,3,2024-01-01,Other
+211,806,3,2024-04-05,Not relevant
+212,1815,3,2024-01-01,Not relevant
+213,4335,3,2024-01-01,Found better brand
+214,4301,3,2024-09-09,Privacy concerns
+215,1346,3,2024-03-03,Too many emails
+216,2143,3,2024-01-01,Other
+217,328,3,2024-03-27,Too many emails
+218,2101,3,2024-09-02,Privacy concerns
+219,2382,3,2024-01-17,Too many emails
+220,3138,3,2024-06-17,Other
+221,2475,3,2024-07-23,Too many emails
+222,2742,3,2024-01-01,Other
+223,4622,3,2024-01-02,Found better brand
+224,2218,3,2024-01-01,Found better brand
+225,1536,3,2024-06-29,Privacy concerns
+226,2234,3,2024-08-18,Privacy concerns
+227,2186,3,2024-01-01,Found better brand
+228,2020,3,2024-04-16,Not relevant
+229,3489,3,2024-03-31,Not relevant
+230,1812,3,2024-02-11,Other
+231,3853,3,2024-03-30,Other
+232,2485,3,2024-01-01,Too many emails
+233,2029,3,2024-04-04,Other
+234,1576,3,2024-01-01,Not relevant
+235,2957,3,2024-01-01,Too many emails
+236,4200,3,2024-08-03,Other
+237,3271,3,2024-06-29,Privacy concerns
+238,4955,3,2024-02-04,Found better brand
+239,1672,3,2024-09-16,Privacy concerns
+240,2287,3,2024-01-01,Privacy concerns
+241,4707,3,2024-09-04,Found better brand
+242,890,3,2024-01-01,Not relevant
+243,3380,3,2024-02-29,Not relevant
+244,4843,3,2024-06-03,Too many emails
+245,4602,3,2024-06-03,Found better brand
+246,2726,3,2024-01-01,Privacy concerns
+247,1348,3,2024-06-23,Not relevant
+248,3502,3,2024-02-14,Found better brand
+249,3269,3,2024-01-01,Privacy concerns
+250,3414,3,2024-02-27,Privacy concerns
+251,2803,3,2024-02-24,Other
+252,477,3,2024-07-07,Found better brand
+253,302,3,2024-03-19,Found better brand
+254,1193,3,2024-01-01,Privacy concerns
+255,3591,3,2024-01-01,Other
+256,4618,4,2024-07-24,Too many emails
+257,3645,4,2024-03-26,Other
+258,1463,4,2024-01-01,Not relevant
+259,543,4,2024-01-01,Not relevant
+260,2352,4,2024-08-01,Not relevant
+261,396,4,2024-01-01,Too many emails
+262,4115,4,2024-06-17,Other
+263,2428,4,2024-08-01,Too many emails
+264,4684,4,2024-02-21,Other
+265,4461,4,2024-01-01,Not relevant
+266,4006,4,2024-02-25,Found better brand
+267,3535,4,2024-01-01,Other
+268,1288,4,2024-01-01,Privacy concerns
+269,2044,4,2024-08-24,Found better brand
+270,657,4,2024-01-01,Found better brand
+271,4046,4,2024-05-19,Privacy concerns
+272,1416,4,2024-01-01,Other
+273,3942,4,2024-03-18,Other
+274,3261,4,2024-05-28,Not relevant
+275,1699,4,2024-05-24,Found better brand
+276,375,4,2024-01-01,Found better brand
+277,3998,4,2024-05-28,Other
+278,4780,4,2024-05-29,Privacy concerns
+279,4259,4,2024-06-25,Privacy concerns
+280,4964,4,2024-03-30,Privacy concerns
+281,2328,4,2024-04-30,Privacy concerns
+282,4330,4,2024-01-05,Too many emails
+283,3068,4,2024-08-27,Privacy concerns
+284,4041,4,2024-07-24,Found better brand
+285,959,4,2024-01-01,Not relevant
+286,4722,4,2024-01-01,Other
+287,3657,4,2024-03-11,Other
+288,389,4,2024-01-01,Privacy concerns
+289,2137,4,2024-01-30,Other
+290,2694,4,2024-09-10,Not relevant
+291,2376,4,2024-01-01,Privacy concerns
+292,3125,4,2024-08-12,Found better brand
+293,4222,4,2024-01-01,Privacy concerns
+294,2248,4,2024-02-25,Other
+295,4842,4,2024-08-07,Found better brand
+296,4606,4,2024-01-25,Privacy concerns
+297,2601,4,2024-01-01,Too many emails
+298,4350,4,2024-05-19,Found better brand
+299,675,4,2024-09-16,Privacy concerns
+300,73,4,2024-06-15,Found better brand
+301,4077,4,2024-05-20,Not relevant
+302,4266,4,2024-05-23,Privacy concerns
+303,1336,4,2024-04-25,Other
+304,4414,4,2024-03-01,Not relevant
+305,622,4,2024-03-27,Too many emails
+306,1045,4,2024-09-17,Privacy concerns
+307,821,4,2024-07-04,Found better brand
+308,4145,4,2024-08-10,Privacy concerns
+309,1512,4,2024-01-01,Not relevant
+310,81,4,2024-01-01,Privacy concerns
+311,1792,4,2024-07-19,Found better brand
+312,1019,4,2024-01-01,Privacy concerns
+313,2605,4,2024-09-14,Not relevant
+314,3603,4,2024-07-19,Too many emails
+315,1239,4,2024-04-28,Other
+316,3215,4,2024-04-06,Too many emails
+317,3148,4,2024-05-18,Other
+318,2433,4,2024-09-01,Other
+319,4413,4,2024-01-01,Privacy concerns
+320,2565,4,2024-05-15,Found better brand
+321,3674,4,2024-08-24,Privacy concerns
+322,95,4,2024-03-14,Too many emails
+323,2337,4,2024-07-21,Too many emails
+324,3917,4,2024-01-01,Too many emails
+325,3322,4,2024-08-24,Not relevant
+326,1813,4,2024-01-01,Not relevant
+327,687,4,2024-01-01,Too many emails
+328,4094,4,2024-04-12,Found better brand
+329,2649,4,2024-01-01,Too many emails
+330,2051,4,2024-09-13,Privacy concerns
+331,3926,4,2024-05-02,Privacy concerns
+332,2535,4,2024-02-15,Privacy concerns
+333,1049,4,2024-07-13,Not relevant
+334,467,5,2024-09-19,Other
+335,4598,5,2024-08-10,Not relevant
+336,3304,5,2024-01-01,Too many emails
+337,1650,5,2024-04-05,Privacy concerns
+338,734,5,2024-01-01,Other
+339,935,5,2024-02-19,Too many emails
+340,7,5,2024-04-06,Too many emails
+341,1970,5,2024-07-08,Too many emails
+342,728,5,2024-03-25,Not relevant
+343,200,5,2024-01-01,Found better brand
+344,4263,5,2024-07-24,Privacy concerns
+345,1509,5,2024-07-15,Too many emails
+346,4329,5,2024-07-11,Privacy concerns
+347,3905,5,2024-01-01,Too many emails
+348,2034,5,2024-05-05,Privacy concerns
+349,3654,5,2024-03-31,Other
+350,3425,5,2024-01-01,Too many emails
+351,2466,5,2024-01-01,Not relevant
+352,3045,5,2024-08-29,Privacy concerns
+353,2623,5,2024-07-05,Found better brand
+354,381,5,2024-06-09,Privacy concerns
+355,2229,5,2024-03-10,Found better brand
+356,1670,5,2024-09-18,Found better brand
+357,1203,5,2024-02-12,Too many emails
+358,4573,5,2024-01-01,Other
+359,91,5,2024-01-01,Found better brand
+360,3838,5,2024-01-01,Privacy concerns
+361,4795,5,2024-01-01,Not relevant
+362,3781,5,2024-01-01,Not relevant
+363,1732,5,2024-02-18,Not relevant
+364,4210,5,2024-07-27,Too many emails
+365,2913,5,2024-01-01,Found better brand
+366,3507,5,2024-01-01,Other
+367,4263,5,2024-05-14,Privacy concerns
+368,4417,5,2024-01-01,Too many emails
+369,2322,5,2024-08-07,Too many emails
+370,1806,5,2024-01-01,Privacy concerns
+371,2200,5,2024-07-17,Found better brand
+372,4572,5,2024-06-03,Privacy concerns
+373,2360,5,2024-01-01,Found better brand
+374,403,5,2024-01-23,Not relevant
+375,389,5,2024-01-01,Found better brand
+376,2361,5,2024-02-16,Privacy concerns
+377,1832,5,2024-01-01,Too many emails
+378,1989,5,2024-07-10,Other
+379,733,5,2024-06-05,Other
+380,665,5,2024-03-27,Other
+381,3771,5,2024-02-08,Other
+382,3410,5,2024-01-01,Too many emails
+383,2509,5,2024-01-01,Found better brand
+384,1181,5,2024-01-01,Other
+385,1322,5,2024-02-01,Found better brand
+386,1727,5,2024-01-01,Too many emails
+387,2380,5,2024-01-01,Not relevant
+388,783,5,2024-01-01,Found better brand
+389,1165,5,2024-05-21,Privacy concerns
+390,2658,5,2024-01-01,Too many emails
+391,404,5,2024-07-07,Other
+392,640,5,2024-02-26,Found better brand
+393,3483,5,2024-01-01,Found better brand
+394,1125,5,2024-07-18,Privacy concerns
+395,2122,5,2024-07-17,Other
+396,1809,5,2024-07-02,Not relevant
+397,2094,5,2024-09-20,Too many emails
+398,1505,5,2024-06-24,Too many emails
+399,1302,5,2024-09-02,Other
+400,3426,5,2024-01-01,Not relevant
+401,621,5,2024-01-01,Found better brand
+402,423,5,2024-01-01,Not relevant
+403,2807,5,2024-01-01,Not relevant
+404,2308,5,2024-01-01,Too many emails
+405,695,6,2024-07-05,Not relevant
+406,2727,6,2024-01-01,Not relevant
+407,3049,6,2024-02-09,Other
+408,1540,6,2024-01-01,Other
+409,331,6,2024-01-29,Found better brand
+410,319,6,2024-08-18,Not relevant
+411,351,6,2024-01-01,Too many emails
+412,3022,6,2024-01-01,Privacy concerns
+413,3004,6,2024-01-01,Privacy concerns
+414,3462,6,2024-01-01,Found better brand
+415,4080,6,2024-01-21,Found better brand
+416,2882,6,2024-07-27,Found better brand
+417,661,6,2024-01-01,Too many emails
+418,292,6,2024-09-12,Not relevant
+419,2834,6,2024-05-27,Other
+420,3064,6,2024-01-01,Found better brand
+421,409,6,2024-01-01,Too many emails
+422,4767,6,2024-01-25,Privacy concerns
+423,2199,6,2024-09-18,Too many emails
+424,2988,6,2024-01-20,Not relevant
+425,2860,6,2024-01-01,Privacy concerns
+426,2796,6,2024-01-01,Too many emails
+427,4919,6,2024-07-18,Too many emails
+428,286,6,2024-05-05,Found better brand
+429,2079,6,2024-06-29,Other
+430,4633,6,2024-03-01,Found better brand
+431,2492,6,2024-01-01,Too many emails
+432,1495,6,2024-07-04,Found better brand
+433,1069,6,2024-01-01,Other
+434,2793,6,2024-01-01,Privacy concerns
+435,4431,6,2024-01-01,Privacy concerns
+436,4944,6,2024-03-05,Found better brand
+437,4875,6,2024-01-21,Found better brand
+438,2505,6,2024-09-18,Other
+439,4899,6,2024-02-25,Found better brand
+440,2682,6,2024-01-01,Found better brand
+441,158,6,2024-06-01,Other
+442,4130,6,2024-01-01,Found better brand
+443,4764,6,2024-05-02,Too many emails
+444,3215,6,2024-01-01,Other
+445,3180,6,2024-02-27,Other
+446,165,6,2024-02-19,Not relevant
+447,1009,6,2024-01-01,Privacy concerns
+448,1762,6,2024-01-01,Privacy concerns
+449,560,6,2024-01-01,Not relevant
+450,2063,6,2024-02-15,Other
+451,4739,6,2024-04-10,Privacy concerns
+452,1051,6,2024-02-28,Privacy concerns
+453,3607,6,2024-08-30,Other
+454,73,6,2024-01-01,Privacy concerns
+455,4906,6,2024-01-01,Not relevant
+456,656,6,2024-07-26,Found better brand
+457,136,6,2024-02-09,Other
+458,4400,6,2024-06-05,Found better brand
+459,3581,6,2024-09-06,Privacy concerns
+460,4782,6,2024-01-01,Not relevant
+461,2726,6,2024-08-19,Not relevant
+462,72,6,2024-02-13,Not relevant
+463,4414,6,2024-04-05,Too many emails
+464,3088,6,2024-07-08,Not relevant
+465,2747,6,2024-03-23,Privacy concerns
+466,2316,6,2024-03-04,Privacy concerns
+467,757,6,2024-01-01,Other
+468,4023,6,2024-03-25,Found better brand
+469,1540,6,2024-01-01,Other
+470,174,6,2024-01-01,Too many emails
+471,2044,6,2024-01-01,Other
+472,328,6,2024-01-01,Not relevant
+473,4953,6,2024-01-01,Found better brand
+474,4962,6,2024-05-31,Too many emails
+475,4466,6,2024-01-01,Not relevant
+476,4342,6,2024-01-13,Other
+477,1625,6,2024-07-17,Other
+478,1205,6,2024-01-01,Other
+479,325,6,2024-01-01,Too many emails
+480,852,6,2024-03-15,Found better brand
+481,2846,6,2024-01-01,Privacy concerns
+482,3809,6,2024-01-01,Other
+483,2634,6,2024-01-01,Found better brand
+484,3984,6,2024-05-26,Not relevant
+485,1061,6,2024-07-05,Too many emails
+486,4654,7,2024-03-08,Other
+487,2792,7,2024-01-01,Found better brand
+488,1986,7,2024-01-01,Not relevant
+489,2125,7,2024-09-19,Not relevant
+490,86,7,2024-08-29,Privacy concerns
+491,4502,7,2024-01-01,Found better brand
+492,3235,7,2024-08-22,Other
+493,1428,7,2024-05-09,Not relevant
+494,2701,7,2024-09-24,Privacy concerns
+495,1539,7,2024-04-23,Other
+496,4620,7,2024-03-19,Not relevant
+497,545,7,2024-01-01,Found better brand
+498,847,7,2024-01-01,Not relevant
+499,4368,7,2024-02-26,Too many emails
+500,876,7,2024-03-25,Other
+501,107,7,2024-01-19,Too many emails
+502,3653,7,2024-01-01,Other
+503,3596,7,2024-01-28,Too many emails
+504,1364,7,2024-07-19,Not relevant
+505,2242,7,2024-01-01,Not relevant
+506,4750,7,2024-09-18,Too many emails
+507,2130,7,2024-01-01,Other
+508,786,7,2024-09-19,Not relevant
+509,687,7,2024-07-01,Too many emails
+510,4053,7,2024-01-01,Not relevant
+511,3368,7,2024-01-01,Privacy concerns
+512,4539,7,2024-01-01,Not relevant
+513,600,7,2024-01-01,Too many emails
+514,3996,7,2024-01-01,Not relevant
+515,3417,7,2024-01-01,Too many emails
+516,427,7,2024-01-09,Privacy concerns
+517,4557,7,2024-07-01,Other
+518,4961,7,2024-01-01,Found better brand
+519,510,7,2024-01-01,Not relevant
+520,3471,7,2024-03-21,Too many emails
+521,829,7,2024-01-01,Too many emails
+522,2049,7,2024-02-12,Found better brand
+523,4095,7,2024-01-01,Other
+524,1014,7,2024-02-16,Privacy concerns
+525,2499,7,2024-03-29,Not relevant
+526,1500,7,2024-01-01,Privacy concerns
+527,3699,7,2024-08-22,Privacy concerns
+528,3422,7,2024-01-01,Other
+529,2502,7,2024-01-01,Privacy concerns
+530,1433,7,2024-01-01,Other
+531,1895,7,2024-01-01,Found better brand
+532,1193,7,2024-05-02,Privacy concerns
+533,217,7,2024-01-01,Other
+534,1600,7,2024-01-01,Not relevant
+535,4320,7,2024-01-01,Not relevant
+536,2270,7,2024-01-01,Too many emails
+537,4666,7,2024-01-01,Not relevant
+538,156,7,2024-01-01,Other
+539,334,7,2024-06-06,Not relevant
+540,4073,7,2024-01-01,Not relevant
+541,2038,7,2024-07-30,Other
+542,1995,7,2024-01-28,Other
+543,3060,7,2024-02-21,Found better brand
+544,3558,7,2024-01-01,Privacy concerns
+545,2273,7,2024-01-01,Privacy concerns
+546,4252,7,2024-04-17,Privacy concerns
+547,3968,7,2024-01-01,Not relevant
+548,2126,7,2024-01-01,Privacy concerns
+549,1016,7,2024-06-09,Other
+550,3016,7,2024-04-17,Too many emails
+551,2048,7,2024-05-01,Privacy concerns
+552,2155,7,2024-01-01,Other
+553,619,7,2024-01-01,Privacy concerns
+554,4515,7,2024-04-18,Too many emails
+555,169,7,2024-03-02,Found better brand
+556,3022,7,2024-02-22,Not relevant
+557,4568,7,2024-01-01,Not relevant
+558,1906,8,2024-01-01,Found better brand
+559,3616,8,2024-01-01,Too many emails
+560,3815,8,2024-01-01,Found better brand
+561,4156,8,2024-05-10,Found better brand
+562,1394,8,2024-09-17,Privacy concerns
+563,862,8,2024-08-16,Too many emails
+564,1429,8,2024-03-22,Too many emails
+565,3721,8,2024-09-22,Privacy concerns
+566,4463,8,2024-04-16,Too many emails
+567,2685,8,2024-09-06,Not relevant
+568,2476,8,2024-01-01,Not relevant
+569,692,8,2024-04-26,Not relevant
+570,2727,8,2024-01-01,Other
+571,1796,8,2024-03-25,Found better brand
+572,1882,8,2024-04-21,Not relevant
+573,2422,8,2024-01-01,Not relevant
+574,1375,8,2024-02-10,Other
+575,3102,8,2024-01-01,Found better brand
+576,1427,8,2024-02-28,Not relevant
+577,119,8,2024-01-01,Other
+578,444,8,2024-01-01,Not relevant
+579,2437,8,2024-07-30,Found better brand
+580,1433,8,2024-04-07,Too many emails
+581,1751,8,2024-04-06,Too many emails
+582,933,8,2024-01-01,Too many emails
+583,3099,8,2024-03-08,Privacy concerns
+584,484,8,2024-05-20,Privacy concerns
+585,608,8,2024-04-13,Found better brand
+586,2005,8,2024-05-30,Other
+587,4746,8,2024-01-11,Too many emails
+588,2344,8,2024-06-18,Not relevant
+589,3512,8,2024-01-01,Too many emails
+590,2393,8,2024-01-01,Privacy concerns
+591,3097,8,2024-05-29,Too many emails
+592,2086,8,2024-01-01,Found better brand
+593,2936,8,2024-05-28,Privacy concerns
+594,2714,8,2024-06-26,Privacy concerns
+595,3039,8,2024-06-07,Found better brand
+596,2379,8,2024-09-09,Other
+597,3552,8,2024-01-01,Privacy concerns
+598,2345,8,2024-01-01,Not relevant
+599,1100,8,2024-05-15,Other
+600,4363,8,2024-09-15,Other
+601,1973,8,2024-01-06,Found better brand
+602,830,8,2024-09-14,Privacy concerns
+603,4758,8,2024-01-07,Found better brand
+604,2904,8,2024-08-08,Other
+605,1122,8,2024-06-02,Not relevant
+606,4910,8,2024-01-01,Too many emails
+607,3270,8,2024-04-24,Privacy concerns
+608,3919,8,2024-01-01,Other
+609,2307,8,2024-01-01,Found better brand
+610,216,8,2024-07-17,Found better brand
+611,4870,8,2024-09-06,Privacy concerns
+612,4252,8,2024-02-12,Other
+613,1042,8,2024-08-09,Not relevant
+614,4486,8,2024-01-01,Other
+615,4945,8,2024-08-25,Other
+616,1763,8,2024-01-01,Privacy concerns
+617,3223,8,2024-01-01,Found better brand
+618,1899,8,2024-02-26,Other
+619,1748,8,2024-01-01,Found better brand
+620,2032,8,2024-01-01,Too many emails
+621,3085,8,2024-02-16,Found better brand
+622,4477,8,2024-01-01,Other
+623,803,8,2024-02-02,Too many emails
+624,812,8,2024-02-13,Not relevant
+625,1383,8,2024-05-01,Too many emails
+626,2082,8,2024-01-01,Too many emails
+627,2422,8,2024-04-02,Other
+628,3769,8,2024-01-01,Found better brand
+629,3792,8,2024-09-26,Other
+630,605,8,2024-07-23,Other
+631,1631,8,2024-01-01,Too many emails
+632,2428,8,2024-08-08,Too many emails
+633,2247,8,2024-08-17,Too many emails
+634,2915,8,2024-05-29,Not relevant
+635,673,8,2024-01-01,Not relevant
+636,4733,8,2024-03-15,Privacy concerns
+637,4814,8,2024-04-14,Too many emails
+638,2105,8,2024-05-14,Privacy concerns
+639,3203,8,2024-01-01,Too many emails
+640,548,8,2024-01-01,Too many emails
+641,32,8,2024-01-01,Privacy concerns
+642,2077,8,2024-05-17,Other
+643,869,8,2024-01-01,Other
+644,4560,9,2024-07-24,Privacy concerns
+645,4398,9,2024-06-28,Privacy concerns
+646,4592,9,2024-01-01,Too many emails
+647,4295,9,2024-09-12,Too many emails
+648,805,9,2024-01-01,Too many emails
+649,2445,9,2024-08-21,Found better brand
+650,4108,9,2024-04-02,Found better brand
+651,2943,9,2024-01-13,Found better brand
+652,2406,9,2024-01-14,Found better brand
+653,3308,9,2024-01-01,Other
+654,3225,9,2024-01-01,Not relevant
+655,1620,9,2024-01-01,Other
+656,3683,9,2024-01-01,Not relevant
+657,83,9,2024-01-29,Too many emails
+658,1371,9,2024-03-17,Found better brand
+659,2698,9,2024-01-01,Other
+660,2582,9,2024-03-01,Found better brand
+661,2027,9,2024-01-01,Too many emails
+662,4760,9,2024-04-11,Not relevant
+663,4413,9,2024-01-14,Other
+664,4746,9,2024-03-03,Privacy concerns
+665,2358,9,2024-09-17,Privacy concerns
+666,378,9,2024-01-07,Other
+667,204,9,2024-06-02,Other
+668,2503,9,2024-07-05,Privacy concerns
+669,514,9,2024-09-12,Privacy concerns
+670,1712,9,2024-01-01,Not relevant
+671,2410,9,2024-01-01,Privacy concerns
+672,4101,9,2024-01-01,Privacy concerns
+673,2746,9,2024-02-16,Not relevant
+674,3545,9,2024-09-11,Privacy concerns
+675,660,9,2024-07-18,Too many emails
+676,4654,9,2024-05-07,Not relevant
+677,2955,9,2024-08-24,Other
+678,592,9,2024-02-22,Found better brand
+679,331,9,2024-03-20,Privacy concerns
+680,4660,9,2024-01-29,Found better brand
+681,3015,9,2024-07-12,Other
+682,1238,9,2024-02-22,Other
+683,2237,9,2024-02-17,Not relevant
+684,2454,9,2024-06-18,Other
+685,4181,9,2024-09-02,Other
+686,3453,9,2024-02-29,Other
+687,645,9,2024-01-01,Too many emails
+688,792,9,2024-04-18,Privacy concerns
+689,3555,9,2024-07-31,Found better brand
+690,3930,9,2024-06-01,Too many emails
+691,585,9,2024-03-25,Too many emails
+692,425,9,2024-01-01,Other
+693,1481,9,2024-05-17,Not relevant
+694,1631,9,2024-09-26,Privacy concerns
+695,2773,9,2024-01-01,Privacy concerns
+696,987,9,2024-01-01,Too many emails
+697,3747,9,2024-01-06,Other
+698,4619,9,2024-01-01,Privacy concerns
+699,4260,9,2024-08-15,Privacy concerns
+700,1057,9,2024-02-11,Too many emails
+701,1198,9,2024-01-01,Other
+702,1313,9,2024-06-20,Too many emails
+703,2678,9,2024-01-01,Too many emails
+704,1999,9,2024-01-01,Privacy concerns
+705,2956,9,2024-02-07,Other
+706,535,9,2024-01-01,Other
+707,1374,9,2024-08-02,Not relevant
+708,1436,9,2024-01-01,Found better brand
+709,3372,9,2024-01-01,Found better brand
+710,56,9,2024-01-01,Not relevant
+711,2645,9,2024-01-01,Too many emails
+712,3316,9,2024-08-07,Not relevant
+713,2614,9,2024-01-01,Privacy concerns
+714,2007,9,2024-03-22,Privacy concerns
+715,1825,9,2024-05-13,Too many emails
+716,2435,9,2024-01-01,Privacy concerns
+717,4556,9,2024-01-01,Privacy concerns
+718,3935,10,2024-08-16,Too many emails
+719,2732,10,2024-01-17,Not relevant
+720,4804,10,2024-03-22,Found better brand
+721,656,10,2024-01-01,Privacy concerns
+722,3881,10,2024-01-01,Found better brand
+723,2694,10,2024-01-01,Too many emails
+724,1119,10,2024-01-01,Too many emails
+725,4462,10,2024-01-01,Not relevant
+726,3986,10,2024-04-29,Not relevant
+727,2873,10,2024-09-15,Too many emails
+728,4820,10,2024-02-09,Other
+729,548,10,2024-01-01,Privacy concerns
+730,1550,10,2024-05-26,Too many emails
+731,4885,10,2024-04-23,Found better brand
+732,2580,10,2024-01-01,Other
+733,3941,10,2024-09-23,Not relevant
+734,3089,10,2024-07-16,Other
+735,2765,10,2024-01-01,Not relevant
+736,4378,10,2024-07-03,Other
+737,3749,10,2024-01-01,Too many emails
+738,678,10,2024-07-24,Not relevant
+739,3371,10,2024-05-06,Other
+740,2792,10,2024-01-01,Other
+741,1746,10,2024-01-01,Not relevant
+742,614,10,2024-01-01,Too many emails
+743,1187,10,2024-01-01,Privacy concerns
+744,2685,10,2024-05-02,Privacy concerns
+745,247,10,2024-01-01,Found better brand
+746,489,10,2024-02-23,Privacy concerns
+747,1544,10,2024-01-01,Found better brand
+748,63,10,2024-06-07,Not relevant
+749,1317,10,2024-04-30,Found better brand
+750,4429,10,2024-09-26,Found better brand
+751,3444,10,2024-04-10,Found better brand
+752,427,10,2024-01-01,Not relevant
+753,4883,10,2024-07-27,Privacy concerns
+754,2122,10,2024-08-25,Other
+755,3029,10,2024-01-01,Found better brand
+756,4238,10,2024-01-01,Not relevant
+757,103,10,2024-01-27,Too many emails
+758,2652,10,2024-02-16,Too many emails
+759,430,10,2024-07-01,Found better brand
+760,2773,10,2024-02-23,Privacy concerns
+761,76,10,2024-06-03,Other
+762,2607,10,2024-01-01,Privacy concerns
+763,957,10,2024-04-09,Found better brand
+764,3921,10,2024-01-26,Not relevant
+765,2673,10,2024-07-16,Found better brand
+766,4273,10,2024-03-31,Not relevant
+767,3431,10,2024-01-01,Too many emails
+768,4996,10,2024-01-01,Not relevant
+769,3976,10,2024-01-21,Not relevant
+770,3537,10,2024-01-01,Privacy concerns
+771,56,10,2024-01-01,Not relevant
+772,4043,10,2024-01-01,Privacy concerns
+773,132,10,2024-01-01,Privacy concerns
+774,1079,10,2024-03-09,Too many emails
+775,3002,10,2024-01-01,Privacy concerns
+776,3018,10,2024-04-03,Not relevant
+777,810,10,2024-03-16,Other
+778,3703,10,2024-01-01,Privacy concerns
+779,2389,10,2024-02-24,Not relevant
+780,3866,10,2024-06-16,Not relevant
+781,3141,10,2024-01-01,Not relevant
+782,2717,10,2024-06-18,Not relevant
+783,2201,10,2024-01-01,Privacy concerns
+784,3316,10,2024-06-08,Not relevant
+785,3645,10,2024-01-01,Not relevant
+786,4179,10,2024-01-01,Not relevant
+787,3712,10,2024-01-01,Not relevant
+788,2371,10,2024-07-10,Not relevant
+789,1554,10,2024-01-03,Not relevant
+790,4464,10,2024-04-28,Privacy concerns
+791,1089,10,2024-01-01,Found better brand
+792,1434,10,2024-05-13,Found better brand
+793,746,11,2024-06-29,Too many emails
+794,4318,11,2024-01-23,Privacy concerns
+795,3754,11,2024-01-01,Privacy concerns
+796,1640,11,2024-01-21,Found better brand
+797,2955,11,2024-07-29,Privacy concerns
+798,2316,11,2024-01-01,Privacy concerns
+799,4105,11,2024-01-01,Not relevant
+800,2854,11,2024-08-23,Privacy concerns
+801,2400,11,2024-01-26,Not relevant
+802,435,11,2024-02-11,Privacy concerns
+803,4926,11,2024-02-22,Privacy concerns
+804,607,11,2024-02-28,Found better brand
+805,2118,11,2024-06-22,Not relevant
+806,3239,11,2024-01-01,Too many emails
+807,3234,11,2024-01-01,Other
+808,4760,11,2024-01-01,Not relevant
+809,255,11,2024-07-20,Privacy concerns
+810,3728,11,2024-07-14,Too many emails
+811,4272,11,2024-03-14,Too many emails
+812,1479,11,2024-04-29,Found better brand
+813,4610,11,2024-08-01,Privacy concerns
+814,2104,11,2024-07-10,Not relevant
+815,738,11,2024-06-03,Found better brand
+816,3774,11,2024-01-25,Privacy concerns
+817,2735,11,2024-07-03,Too many emails
+818,1942,11,2024-04-12,Other
+819,2488,11,2024-05-15,Too many emails
+820,4217,11,2024-01-01,Not relevant
+821,4060,11,2024-07-31,Other
+822,4433,11,2024-04-24,Other
+823,808,11,2024-01-01,Not relevant
+824,3102,11,2024-01-08,Found better brand
+825,4140,11,2024-07-21,Too many emails
+826,3234,11,2024-01-25,Other
+827,3820,11,2024-04-29,Found better brand
+828,2910,11,2024-03-14,Other
+829,649,11,2024-01-01,Too many emails
+830,3587,11,2024-03-09,Too many emails
+831,2122,11,2024-01-01,Found better brand
+832,3420,11,2024-01-01,Too many emails
+833,1888,11,2024-09-07,Other
+834,3106,11,2024-01-01,Privacy concerns
+835,4793,11,2024-01-01,Privacy concerns
+836,2616,11,2024-01-01,Too many emails
+837,2994,11,2024-02-17,Found better brand
+838,4840,11,2024-01-01,Found better brand
+839,177,11,2024-08-12,Found better brand
+840,3377,11,2024-01-16,Too many emails
+841,482,11,2024-05-07,Too many emails
+842,454,11,2024-09-05,Not relevant
+843,4248,11,2024-01-01,Too many emails
+844,4560,11,2024-06-27,Other
+845,2708,11,2024-04-13,Too many emails
+846,3255,11,2024-07-18,Found better brand
+847,2156,11,2024-05-13,Not relevant
+848,212,11,2024-01-01,Other
+849,2105,11,2024-09-14,Too many emails
+850,2527,11,2024-01-01,Other
+851,3190,11,2024-01-01,Too many emails
+852,3833,11,2024-06-18,Other
+853,2993,11,2024-01-01,Too many emails
+854,3367,11,2024-03-22,Too many emails
+855,2383,12,2024-05-29,Privacy concerns
+856,1658,12,2024-08-22,Other
+857,2125,12,2024-07-18,Not relevant
+858,4108,12,2024-09-17,Too many emails
+859,4177,12,2024-06-04,Privacy concerns
+860,2540,12,2024-06-05,Too many emails
+861,3959,12,2024-07-10,Not relevant
+862,307,12,2024-04-01,Too many emails
+863,1546,12,2024-02-01,Privacy concerns
+864,2158,12,2024-01-01,Not relevant
+865,2869,12,2024-01-26,Found better brand
+866,538,12,2024-01-20,Privacy concerns
+867,4376,12,2024-02-04,Not relevant
+868,3228,12,2024-04-08,Privacy concerns
+869,1058,12,2024-01-01,Privacy concerns
+870,4875,12,2024-02-27,Too many emails
+871,4136,12,2024-08-23,Not relevant
+872,4383,12,2024-01-01,Privacy concerns
+873,4798,12,2024-01-01,Not relevant
+874,920,12,2024-01-19,Too many emails
+875,3655,12,2024-01-01,Found better brand
+876,2105,12,2024-01-01,Not relevant
+877,4505,12,2024-01-13,Not relevant
+878,1533,12,2024-01-01,Other
+879,86,12,2024-03-06,Not relevant
+880,1377,12,2024-01-01,Too many emails
+881,2963,12,2024-06-22,Too many emails
+882,3653,12,2024-08-07,Found better brand
+883,430,12,2024-01-01,Other
+884,4645,12,2024-01-01,Not relevant
+885,3317,12,2024-01-01,Privacy concerns
+886,1434,12,2024-01-01,Other
+887,725,12,2024-01-01,Privacy concerns
+888,1489,12,2024-01-01,Too many emails
+889,2682,12,2024-01-01,Too many emails
+890,1618,12,2024-05-17,Other
+891,734,12,2024-01-01,Found better brand
+892,1318,12,2024-01-01,Found better brand
+893,1594,12,2024-05-16,Other
+894,3012,12,2024-01-01,Too many emails
+895,3209,12,2024-01-01,Not relevant
+896,1356,12,2024-07-18,Not relevant
+897,3339,12,2024-07-19,Other
+898,10,12,2024-03-09,Not relevant
+899,3079,12,2024-03-13,Not relevant
+900,910,12,2024-06-20,Privacy concerns
+901,4509,12,2024-01-01,Too many emails
+902,147,12,2024-01-01,Found better brand
+903,4559,12,2024-01-01,Too many emails
+904,328,12,2024-01-17,Privacy concerns
+905,3818,12,2024-03-05,Privacy concerns
+906,337,12,2024-05-24,Not relevant
+907,4664,12,2024-01-01,Found better brand
+908,2872,12,2024-09-26,Too many emails
+909,136,12,2024-03-25,Found better brand
+910,213,12,2024-01-01,Privacy concerns
+911,3112,12,2024-03-11,Other
+912,1249,12,2024-05-04,Not relevant
+913,792,12,2024-05-27,Not relevant
+914,203,12,2024-01-01,Other
+915,4732,12,2024-01-09,Privacy concerns
+916,3832,12,2024-01-01,Privacy concerns
+917,385,12,2024-01-01,Found better brand
+918,2891,12,2024-04-18,Found better brand
+919,730,13,2024-07-26,Not relevant
+920,1483,13,2024-01-01,Not relevant
+921,589,13,2024-01-01,Privacy concerns
+922,648,13,2024-08-18,Found better brand
+923,4799,13,2024-01-01,Other
+924,4531,13,2024-02-29,Too many emails
+925,2787,13,2024-02-21,Privacy concerns
+926,3000,13,2024-05-23,Found better brand
+927,4344,13,2024-03-20,Too many emails
+928,311,13,2024-01-01,Not relevant
+929,4874,13,2024-01-01,Found better brand
+930,2206,13,2024-01-03,Not relevant
+931,2136,13,2024-02-22,Privacy concerns
+932,4595,13,2024-03-01,Privacy concerns
+933,4389,13,2024-08-05,Too many emails
+934,3533,13,2024-09-24,Privacy concerns
+935,2069,13,2024-08-25,Not relevant
+936,135,13,2024-01-30,Not relevant
+937,1595,13,2024-01-01,Privacy concerns
+938,1251,13,2024-02-13,Privacy concerns
+939,3764,13,2024-01-01,Privacy concerns
+940,4857,13,2024-01-01,Found better brand
+941,3931,13,2024-03-16,Not relevant
+942,1400,13,2024-01-01,Too many emails
+943,3850,13,2024-01-01,Privacy concerns
+944,4057,13,2024-05-03,Privacy concerns
+945,568,13,2024-03-08,Too many emails
+946,3412,13,2024-06-22,Privacy concerns
+947,4984,13,2024-01-01,Found better brand
+948,1548,13,2024-05-31,Too many emails
+949,946,13,2024-01-01,Privacy concerns
+950,2811,13,2024-04-09,Found better brand
+951,4894,13,2024-01-01,Found better brand
+952,1828,13,2024-04-24,Too many emails
+953,1681,13,2024-01-26,Too many emails
+954,1322,13,2024-01-01,Other
+955,3440,13,2024-01-01,Other
+956,2741,13,2024-01-01,Other
+957,3133,13,2024-01-11,Not relevant
+958,2331,13,2024-01-01,Privacy concerns
+959,2951,13,2024-01-01,Too many emails
+960,4091,13,2024-09-10,Found better brand
+961,1851,13,2024-04-24,Other
+962,3680,13,2024-09-27,Not relevant
+963,1342,13,2024-01-01,Too many emails
+964,2271,13,2024-01-01,Not relevant
+965,1883,13,2024-03-27,Not relevant
+966,1251,13,2024-04-07,Too many emails
+967,1873,13,2024-03-20,Other
+968,3790,13,2024-01-01,Too many emails
+969,4438,13,2024-04-10,Not relevant
+970,2589,14,2024-01-01,Not relevant
+971,3937,14,2024-05-04,Privacy concerns
+972,1371,14,2024-09-13,Privacy concerns
+973,3498,14,2024-03-30,Other
+974,2884,14,2024-04-19,Too many emails
+975,417,14,2024-09-13,Other
+976,4929,14,2024-01-01,Not relevant
+977,84,14,2024-06-14,Privacy concerns
+978,3773,14,2024-02-27,Not relevant
+979,2830,14,2024-02-20,Other
+980,305,14,2024-08-17,Too many emails
+981,4342,14,2024-01-01,Privacy concerns
+982,3017,14,2024-02-18,Privacy concerns
+983,4695,14,2024-02-01,Found better brand
+984,2598,14,2024-04-13,Not relevant
+985,3011,14,2024-03-30,Other
+986,2699,14,2024-07-04,Found better brand
+987,4560,14,2024-01-01,Too many emails
+988,2852,14,2024-01-01,Too many emails
+989,3443,14,2024-07-11,Other
+990,4762,14,2024-01-01,Other
+991,3913,14,2024-05-23,Other
+992,2295,14,2024-08-11,Found better brand
+993,4547,14,2024-01-01,Found better brand
+994,2802,14,2024-01-01,Privacy concerns
+995,3185,14,2024-08-23,Not relevant
+996,3272,14,2024-01-07,Privacy concerns
+997,2627,14,2024-09-26,Privacy concerns
+998,2947,14,2024-06-18,Found better brand
+999,4165,14,2024-02-23,Found better brand
+1000,3058,14,2024-01-01,Too many emails
+1001,4325,14,2024-03-26,Not relevant
+1002,4027,14,2024-01-01,Found better brand
+1003,146,14,2024-01-01,Too many emails
+1004,252,14,2024-01-01,Found better brand
+1005,2206,14,2024-01-01,Not relevant
+1006,1135,14,2024-05-21,Found better brand
+1007,4764,14,2024-06-12,Found better brand
+1008,2554,14,2024-01-01,Not relevant
+1009,2811,14,2024-09-13,Not relevant
+1010,576,14,2024-01-27,Privacy concerns
+1011,242,14,2024-07-25,Too many emails
+1012,776,14,2024-03-25,Not relevant
+1013,4531,14,2024-02-04,Privacy concerns
+1014,3630,14,2024-01-01,Other
+1015,4678,14,2024-05-03,Not relevant
+1016,2161,14,2024-01-26,Found better brand
+1017,3748,14,2024-02-06,Found better brand
+1018,1796,14,2024-01-01,Found better brand
+1019,882,14,2024-01-02,Privacy concerns
+1020,2722,14,2024-07-29,Not relevant
+1021,472,14,2024-01-01,Not relevant
+1022,3230,14,2024-06-20,Found better brand
+1023,4205,14,2024-03-29,Found better brand
+1024,2278,14,2024-01-01,Too many emails
+1025,2292,14,2024-01-01,Not relevant
+1026,3961,14,2024-01-01,Too many emails
+1027,770,14,2024-01-01,Not relevant
+1028,1045,14,2024-08-27,Privacy concerns
+1029,1545,14,2024-03-10,Too many emails
+1030,2186,14,2024-03-04,Other
+1031,3092,14,2024-01-01,Other
+1032,1320,14,2024-01-01,Found better brand
+1033,349,14,2024-08-19,Privacy concerns
+1034,4358,14,2024-01-01,Privacy concerns
+1035,3020,14,2024-02-11,Privacy concerns
+1036,4721,14,2024-09-10,Too many emails
+1037,1955,14,2024-01-21,Found better brand
+1038,4486,14,2024-06-17,Found better brand
+1039,443,14,2024-06-12,Too many emails
+1040,3384,14,2024-07-19,Not relevant
+1041,2017,14,2024-01-01,Too many emails
+1042,2500,14,2024-01-01,Privacy concerns
+1043,4207,14,2024-05-22,Not relevant
+1044,2734,14,2024-01-01,Privacy concerns
+1045,1046,14,2024-02-17,Not relevant
+1046,4524,14,2024-01-31,Found better brand
+1047,3491,14,2024-01-01,Privacy concerns
+1048,2872,14,2024-01-01,Privacy concerns
+1049,3686,14,2024-01-01,Not relevant
+1050,3058,14,2024-01-01,Other
+1051,1466,14,2024-08-04,Too many emails
+1052,3858,14,2024-07-24,Too many emails
+1053,1798,14,2024-01-01,Found better brand
+1054,2263,14,2024-07-31,Other
+1055,4485,14,2024-01-01,Privacy concerns
+1056,2906,15,2024-07-19,Found better brand
+1057,1334,15,2024-06-23,Found better brand
+1058,902,15,2024-07-10,Too many emails
+1059,3512,15,2024-01-01,Too many emails
+1060,3168,15,2024-01-01,Found better brand
+1061,590,15,2024-07-30,Not relevant
+1062,3338,15,2024-07-04,Privacy concerns
+1063,2347,15,2024-01-01,Too many emails
+1064,953,15,2024-02-11,Found better brand
+1065,807,15,2024-03-02,Found better brand
+1066,3498,15,2024-01-01,Privacy concerns
+1067,3331,15,2024-04-20,Privacy concerns
+1068,3549,15,2024-01-01,Not relevant
+1069,3661,15,2024-03-08,Found better brand
+1070,4073,15,2024-09-23,Found better brand
+1071,1485,15,2024-04-02,Privacy concerns
+1072,1216,15,2024-02-20,Found better brand
+1073,1926,15,2024-01-01,Found better brand
+1074,404,15,2024-01-01,Not relevant
+1075,1152,15,2024-05-15,Privacy concerns
+1076,1805,15,2024-01-01,Found better brand
+1077,1098,15,2024-08-12,Privacy concerns
+1078,1329,15,2024-01-01,Privacy concerns
+1079,884,15,2024-01-01,Other
+1080,2577,15,2024-01-01,Found better brand
+1081,1914,15,2024-06-06,Other
+1082,376,15,2024-01-01,Found better brand
+1083,3534,15,2024-01-01,Other
+1084,962,15,2024-01-01,Other
+1085,4739,15,2024-01-01,Other
+1086,4998,15,2024-05-08,Found better brand
+1087,3829,15,2024-04-25,Found better brand
+1088,4572,15,2024-02-27,Too many emails
+1089,3809,15,2024-05-27,Found better brand
+1090,4840,15,2024-08-14,Not relevant
+1091,3410,15,2024-07-14,Not relevant
+1092,2379,15,2024-01-01,Found better brand
+1093,3243,15,2024-02-23,Privacy concerns
+1094,3148,15,2024-01-01,Other
+1095,2381,15,2024-01-01,Privacy concerns
+1096,735,15,2024-01-01,Too many emails
+1097,3866,15,2024-01-01,Other
+1098,4995,15,2024-06-17,Other
+1099,3541,15,2024-04-07,Found better brand
+1100,2364,15,2024-09-11,Privacy concerns
+1101,1832,15,2024-09-27,Not relevant
+1102,124,15,2024-01-01,Too many emails
+1103,2078,15,2024-01-01,Not relevant
+1104,3907,15,2024-01-01,Too many emails
+1105,2614,15,2024-03-21,Other
+1106,1026,15,2024-07-05,Found better brand
+1107,2088,15,2024-05-22,Other
+1108,4624,15,2024-07-01,Not relevant
+1109,2085,15,2024-02-21,Too many emails
+1110,172,15,2024-01-01,Not relevant
+1111,383,15,2024-03-27,Other
+1112,4445,15,2024-01-01,Too many emails
+1113,2128,15,2024-08-06,Other
+1114,827,15,2024-01-01,Not relevant
+1115,3971,15,2024-02-15,Privacy concerns
+1116,625,15,2024-01-01,Too many emails
+1117,4639,15,2024-05-22,Not relevant
+1118,3576,15,2024-01-01,Other
+1119,1438,15,2024-02-28,Privacy concerns
+1120,4486,15,2024-08-24,Too many emails
+1121,4645,15,2024-09-25,Privacy concerns
+1122,4659,15,2024-01-01,Not relevant
+1123,3418,15,2024-06-16,Not relevant
+1124,4573,15,2024-01-01,Found better brand
+1125,4293,15,2024-01-01,Other
+1126,210,15,2024-03-07,Found better brand
+1127,1783,15,2024-01-01,Too many emails
+1128,4264,15,2024-01-01,Privacy concerns
+1129,1358,15,2024-07-03,Other
+1130,4595,15,2024-01-01,Other
+1131,2328,15,2024-09-06,Other
+1132,3394,15,2024-01-01,Privacy concerns
+1133,474,15,2024-01-01,Not relevant
+1134,3542,15,2024-06-07,Privacy concerns
+1135,1054,15,2024-04-28,Other
+1136,3649,15,2024-01-01,Not relevant
+1137,3222,16,2024-02-13,Other
+1138,266,16,2024-09-23,Not relevant
+1139,2164,16,2024-09-10,Found better brand
+1140,4722,16,2024-09-18,Privacy concerns
+1141,2626,16,2024-07-28,Too many emails
+1142,600,16,2024-01-01,Not relevant
+1143,1287,16,2024-01-01,Too many emails
+1144,2118,16,2024-08-10,Not relevant
+1145,2735,16,2024-08-30,Not relevant
+1146,1741,16,2024-09-15,Privacy concerns
+1147,694,16,2024-04-11,Privacy concerns
+1148,2600,16,2024-04-12,Found better brand
+1149,54,16,2024-07-22,Found better brand
+1150,4202,16,2024-01-01,Too many emails
+1151,3358,16,2024-04-02,Too many emails
+1152,3742,16,2024-01-01,Other
+1153,4628,16,2024-01-01,Found better brand
+1154,4354,16,2024-01-01,Privacy concerns
+1155,1754,16,2024-05-25,Found better brand
+1156,4259,16,2024-05-04,Privacy concerns
+1157,3797,16,2024-01-01,Privacy concerns
+1158,2217,16,2024-01-01,Privacy concerns
+1159,4989,16,2024-01-01,Privacy concerns
+1160,832,16,2024-02-02,Not relevant
+1161,4404,16,2024-01-13,Found better brand
+1162,3160,16,2024-03-19,Too many emails
+1163,2122,16,2024-02-11,Other
+1164,4038,16,2024-01-01,Found better brand
+1165,919,16,2024-01-25,Other
+1166,3444,16,2024-01-01,Not relevant
+1167,576,16,2024-05-02,Privacy concerns
+1168,2712,16,2024-01-20,Privacy concerns
+1169,1048,16,2024-01-01,Other
+1170,2432,16,2024-01-01,Not relevant
+1171,4405,16,2024-01-01,Too many emails
+1172,2334,16,2024-01-01,Not relevant
+1173,1114,16,2024-09-09,Other
+1174,4310,16,2024-01-01,Privacy concerns
+1175,4800,16,2024-01-23,Not relevant
+1176,4905,16,2024-04-10,Too many emails
+1177,4151,16,2024-03-20,Found better brand
+1178,1412,16,2024-07-07,Other
+1179,646,16,2024-02-14,Privacy concerns
+1180,2090,16,2024-01-01,Not relevant
+1181,2751,16,2024-04-27,Too many emails
+1182,676,16,2024-01-01,Privacy concerns
+1183,4258,16,2024-09-15,Privacy concerns
+1184,4298,16,2024-08-02,Privacy concerns
+1185,1374,16,2024-03-27,Too many emails
+1186,4015,16,2024-07-02,Privacy concerns
+1187,111,16,2024-01-15,Privacy concerns
+1188,3798,16,2024-01-01,Privacy concerns
+1189,4473,16,2024-02-17,Other
+1190,2893,16,2024-06-26,Other
+1191,4719,16,2024-08-04,Privacy concerns
+1192,2030,16,2024-06-28,Too many emails
+1193,337,16,2024-09-10,Found better brand
+1194,1826,16,2024-01-01,Privacy concerns
+1195,4082,16,2024-01-01,Too many emails
+1196,2193,16,2024-05-12,Not relevant
+1197,4628,16,2024-07-01,Privacy concerns
+1198,4210,16,2024-05-23,Privacy concerns
+1199,3262,16,2024-06-17,Too many emails
+1200,985,16,2024-08-12,Other
+1201,4568,16,2024-08-18,Other
+1202,972,16,2024-01-01,Too many emails
+1203,1490,16,2024-09-11,Found better brand
+1204,2213,16,2024-06-14,Not relevant
+1205,1522,16,2024-01-01,Not relevant
+1206,4361,16,2024-08-09,Other
+1207,1520,16,2024-01-31,Found better brand
+1208,595,16,2024-01-01,Too many emails
+1209,567,16,2024-01-01,Too many emails
+1210,3518,16,2024-01-01,Other
+1211,1844,16,2024-01-01,Privacy concerns
+1212,375,16,2024-01-01,Privacy concerns
+1213,719,17,2024-08-27,Other
+1214,4818,17,2024-01-01,Not relevant
+1215,169,17,2024-08-29,Too many emails
+1216,1212,17,2024-01-01,Privacy concerns
+1217,1450,17,2024-09-16,Other
+1218,2857,17,2024-01-14,Privacy concerns
+1219,4441,17,2024-09-15,Other
+1220,270,17,2024-06-30,Other
+1221,3510,17,2024-01-01,Found better brand
+1222,4406,17,2024-01-01,Other
+1223,2420,17,2024-01-01,Privacy concerns
+1224,3486,17,2024-09-22,Found better brand
+1225,2505,17,2024-02-01,Privacy concerns
+1226,483,17,2024-03-25,Other
+1227,1751,17,2024-05-01,Not relevant
+1228,2324,17,2024-03-26,Not relevant
+1229,2179,17,2024-01-01,Not relevant
+1230,1138,17,2024-08-29,Privacy concerns
+1231,4967,17,2024-01-22,Too many emails
+1232,4120,17,2024-08-23,Too many emails
+1233,550,17,2024-09-09,Privacy concerns
+1234,3786,17,2024-09-10,Not relevant
+1235,1654,17,2024-05-05,Not relevant
+1236,3494,17,2024-01-17,Privacy concerns
+1237,2873,17,2024-06-26,Too many emails
+1238,4683,17,2024-06-04,Other
+1239,2309,17,2024-05-10,Found better brand
+1240,3091,17,2024-01-01,Privacy concerns
+1241,3298,17,2024-01-01,Found better brand
+1242,4555,17,2024-05-28,Other
+1243,3435,17,2024-04-16,Not relevant
+1244,174,17,2024-09-14,Found better brand
+1245,778,17,2024-09-09,Found better brand
+1246,428,17,2024-05-19,Too many emails
+1247,609,17,2024-01-01,Too many emails
+1248,206,17,2024-06-14,Too many emails
+1249,3776,17,2024-01-01,Too many emails
+1250,2235,17,2024-05-08,Privacy concerns
+1251,4466,17,2024-01-11,Found better brand
+1252,1298,17,2024-01-01,Too many emails
+1253,3290,17,2024-07-24,Other
+1254,2586,17,2024-05-23,Too many emails
+1255,2930,17,2024-01-01,Found better brand
+1256,1865,17,2024-01-01,Not relevant
+1257,2507,17,2024-06-13,Too many emails
+1258,3399,17,2024-03-03,Found better brand
+1259,3265,17,2024-03-14,Other
+1260,4566,17,2024-01-01,Found better brand
+1261,4709,17,2024-01-01,Too many emails
+1262,2239,17,2024-01-19,Privacy concerns
+1263,4160,17,2024-07-14,Privacy concerns
+1264,1450,17,2024-01-01,Privacy concerns
+1265,4836,17,2024-01-30,Found better brand
+1266,4602,17,2024-01-01,Privacy concerns
+1267,4912,17,2024-09-27,Found better brand
+1268,4851,17,2024-01-01,Found better brand
+1269,2024,17,2024-01-01,Found better brand
+1270,2204,17,2024-01-01,Other
+1271,1877,17,2024-01-27,Other
+1272,2771,17,2024-08-21,Privacy concerns
+1273,2259,17,2024-01-01,Other
+1274,4191,17,2024-01-01,Found better brand
+1275,144,17,2024-02-23,Privacy concerns
+1276,4702,17,2024-03-23,Found better brand
+1277,3354,17,2024-01-01,Other
+1278,2177,17,2024-03-25,Too many emails
+1279,410,17,2024-07-27,Found better brand
+1280,3815,17,2024-03-16,Found better brand
+1281,1423,17,2024-05-02,Found better brand
+1282,2492,17,2024-01-01,Too many emails
+1283,155,17,2024-03-02,Privacy concerns
+1284,3163,17,2024-01-01,Too many emails
+1285,49,17,2024-02-20,Not relevant
+1286,4756,17,2024-01-01,Other
+1287,1533,17,2024-01-01,Found better brand
+1288,1404,17,2024-05-02,Other
+1289,2461,18,2024-07-09,Other
+1290,2620,18,2024-04-13,Found better brand
+1291,3789,18,2024-07-07,Privacy concerns
+1292,2671,18,2024-08-04,Found better brand
+1293,3251,18,2024-01-01,Found better brand
+1294,1592,18,2024-05-05,Not relevant
+1295,4748,18,2024-01-15,Too many emails
+1296,3889,18,2024-01-01,Privacy concerns
+1297,4213,18,2024-01-01,Found better brand
+1298,3835,18,2024-01-01,Found better brand
+1299,4499,18,2024-09-19,Other
+1300,3843,18,2024-08-29,Other
+1301,4407,18,2024-01-01,Found better brand
+1302,1430,18,2024-07-13,Privacy concerns
+1303,389,18,2024-01-01,Privacy concerns
+1304,3588,18,2024-08-21,Too many emails
+1305,1512,18,2024-02-27,Other
+1306,4592,18,2024-01-01,Not relevant
+1307,3202,18,2024-09-06,Privacy concerns
+1308,2281,18,2024-05-03,Found better brand
+1309,454,18,2024-04-13,Too many emails
+1310,4508,18,2024-08-28,Privacy concerns
+1311,3912,18,2024-01-01,Too many emails
+1312,883,18,2024-01-01,Found better brand
+1313,4201,18,2024-01-01,Found better brand
+1314,1223,18,2024-03-14,Other
+1315,2196,18,2024-01-01,Other
+1316,1266,18,2024-01-01,Too many emails
+1317,506,18,2024-09-15,Not relevant
+1318,204,18,2024-09-28,Other
+1319,2480,18,2024-03-12,Too many emails
+1320,2203,18,2024-05-17,Not relevant
+1321,131,18,2024-01-01,Privacy concerns
+1322,66,18,2024-05-05,Too many emails
+1323,3222,18,2024-01-02,Not relevant
+1324,1785,18,2024-07-18,Not relevant
+1325,4298,18,2024-07-31,Not relevant
+1326,3019,18,2024-03-11,Found better brand
+1327,2392,18,2024-05-21,Privacy concerns
+1328,2701,18,2024-05-12,Too many emails
+1329,1501,18,2024-01-01,Found better brand
+1330,2597,18,2024-01-01,Privacy concerns
+1331,2886,18,2024-01-01,Too many emails
+1332,3287,18,2024-01-01,Found better brand
+1333,3153,18,2024-01-01,Too many emails
+1334,3723,18,2024-01-01,Privacy concerns
+1335,3808,18,2024-04-18,Found better brand
+1336,2307,18,2024-05-24,Not relevant
+1337,3089,18,2024-02-21,Privacy concerns
+1338,4886,18,2024-05-22,Privacy concerns
+1339,1808,18,2024-08-03,Not relevant
+1340,3280,18,2024-01-13,Found better brand
+1341,1453,18,2024-08-31,Other
+1342,1792,18,2024-01-01,Too many emails
+1343,4836,18,2024-06-20,Privacy concerns
+1344,2613,18,2024-01-01,Found better brand
+1345,3913,18,2024-01-18,Privacy concerns
+1346,3754,18,2024-04-22,Not relevant
+1347,626,18,2024-09-13,Found better brand
+1348,3077,18,2024-01-18,Found better brand
+1349,3184,18,2024-03-09,Not relevant
+1350,628,18,2024-01-01,Too many emails
+1351,3459,18,2024-01-01,Privacy concerns
+1352,1755,18,2024-01-01,Too many emails
+1353,2048,18,2024-06-17,Privacy concerns
+1354,1854,18,2024-01-01,Too many emails
+1355,751,18,2024-01-01,Other
+1356,2894,18,2024-01-01,Found better brand
+1357,4656,18,2024-04-06,Found better brand
+1358,4724,18,2024-01-01,Found better brand
+1359,1576,18,2024-08-18,Too many emails
+1360,1135,18,2024-05-21,Other
+1361,179,18,2024-01-01,Found better brand
+1362,2960,18,2024-02-23,Too many emails
+1363,2068,18,2024-01-01,Not relevant
+1364,2531,18,2024-06-08,Not relevant
+1365,3531,18,2024-01-01,Found better brand
+1366,919,18,2024-08-31,Not relevant
+1367,2623,18,2024-01-01,Other
+1368,3702,18,2024-03-21,Too many emails
+1369,1171,18,2024-07-31,Found better brand
+1370,1621,18,2024-05-13,Found better brand
+1371,3685,19,2024-01-01,Not relevant
+1372,1750,19,2024-07-09,Privacy concerns
+1373,2729,19,2024-04-27,Not relevant
+1374,1033,19,2024-06-20,Privacy concerns
+1375,1585,19,2024-01-21,Found better brand
+1376,4861,19,2024-01-01,Privacy concerns
+1377,4959,19,2024-08-15,Found better brand
+1378,2664,19,2024-01-01,Found better brand
+1379,1660,19,2024-09-28,Too many emails
+1380,4967,19,2024-09-26,Not relevant
+1381,4525,19,2024-02-19,Too many emails
+1382,2147,19,2024-05-12,Privacy concerns
+1383,4230,19,2024-01-01,Privacy concerns
+1384,1384,19,2024-06-10,Not relevant
+1385,3025,19,2024-01-01,Found better brand
+1386,4895,19,2024-04-19,Too many emails
+1387,1830,19,2024-03-26,Privacy concerns
+1388,1122,19,2024-02-02,Privacy concerns
+1389,1340,19,2024-01-27,Too many emails
+1390,2773,19,2024-01-01,Not relevant
+1391,1062,19,2024-01-01,Too many emails
+1392,2104,19,2024-01-01,Other
+1393,4547,19,2024-08-02,Not relevant
+1394,3756,19,2024-01-01,Not relevant
+1395,2059,19,2024-06-05,Too many emails
+1396,4468,19,2024-09-18,Not relevant
+1397,3479,19,2024-09-27,Privacy concerns
+1398,1669,19,2024-07-20,Too many emails
+1399,230,19,2024-08-10,Privacy concerns
+1400,2045,19,2024-01-01,Found better brand
+1401,1745,19,2024-01-01,Privacy concerns
+1402,3910,19,2024-01-01,Found better brand
+1403,4615,19,2024-01-01,Too many emails
+1404,3225,19,2024-01-01,Not relevant
+1405,1198,19,2024-05-18,Too many emails
+1406,4207,19,2024-06-22,Too many emails
+1407,1084,19,2024-05-07,Too many emails
+1408,4212,19,2024-07-26,Too many emails
+1409,1753,19,2024-03-16,Too many emails
+1410,425,19,2024-01-01,Privacy concerns
+1411,1396,19,2024-06-19,Found better brand
+1412,1506,19,2024-04-28,Privacy concerns
+1413,2834,19,2024-01-01,Found better brand
+1414,1156,19,2024-05-11,Found better brand
+1415,1004,19,2024-01-01,Too many emails
+1416,4495,19,2024-05-04,Not relevant
+1417,1056,19,2024-01-01,Privacy concerns
+1418,1431,19,2024-01-17,Not relevant
+1419,3401,19,2024-07-06,Not relevant
+1420,1984,19,2024-03-20,Privacy concerns
+1421,1077,19,2024-01-01,Privacy concerns
+1422,548,19,2024-04-17,Found better brand
+1423,3838,19,2024-01-01,Privacy concerns
+1424,302,19,2024-02-06,Found better brand
+1425,4282,19,2024-01-01,Privacy concerns
+1426,1002,19,2024-01-01,Other
+1427,3194,19,2024-01-15,Too many emails
+1428,2255,19,2024-09-07,Other
+1429,2178,19,2024-08-31,Other
+1430,3393,19,2024-01-01,Too many emails
+1431,3735,19,2024-01-01,Too many emails
+1432,2688,19,2024-01-01,Found better brand
+1433,1319,19,2024-09-25,Privacy concerns
+1434,2422,19,2024-01-01,Not relevant
+1435,2653,19,2024-01-01,Too many emails
+1436,883,19,2024-03-14,Other
+1437,2943,19,2024-01-10,Too many emails
+1438,1697,19,2024-06-15,Privacy concerns
+1439,62,19,2024-02-06,Not relevant
+1440,4714,19,2024-03-29,Privacy concerns
+1441,2478,19,2024-01-01,Other
+1442,3803,19,2024-08-27,Found better brand
+1443,2331,20,2024-01-01,Too many emails
+1444,3251,20,2024-02-03,Too many emails
+1445,559,20,2024-07-15,Found better brand
+1446,4730,20,2024-01-01,Too many emails
+1447,3354,20,2024-01-11,Privacy concerns
+1448,3904,20,2024-01-01,Privacy concerns
+1449,1537,20,2024-01-01,Other
+1450,287,20,2024-01-01,Not relevant
+1451,3832,20,2024-08-26,Too many emails
+1452,3614,20,2024-01-01,Not relevant
+1453,119,20,2024-02-11,Other
+1454,4209,20,2024-09-05,Privacy concerns
+1455,3541,20,2024-01-01,Not relevant
+1456,2582,20,2024-01-01,Too many emails
+1457,4896,20,2024-07-22,Not relevant
+1458,3445,20,2024-01-01,Other
+1459,2417,20,2024-07-03,Other
+1460,2907,20,2024-06-07,Not relevant
+1461,2489,20,2024-01-01,Too many emails
+1462,2052,20,2024-01-01,Found better brand
+1463,550,20,2024-03-11,Too many emails
+1464,2452,20,2024-08-05,Not relevant
+1465,4111,20,2024-01-01,Found better brand
+1466,1355,20,2024-01-31,Found better brand
+1467,4303,20,2024-02-16,Privacy concerns
+1468,1175,20,2024-01-01,Privacy concerns
+1469,4927,20,2024-02-23,Not relevant
+1470,4456,20,2024-01-01,Not relevant
+1471,3640,20,2024-01-01,Too many emails
+1472,1644,20,2024-01-01,Not relevant
+1473,3322,20,2024-01-01,Privacy concerns
+1474,1559,20,2024-01-01,Other
+1475,2764,20,2024-01-01,Privacy concerns
+1476,3822,20,2024-01-01,Found better brand
+1477,4810,20,2024-08-05,Too many emails
+1478,21,20,2024-01-01,Not relevant
+1479,1153,20,2024-01-01,Found better brand
+1480,4056,20,2024-04-18,Too many emails
+1481,4971,20,2024-08-04,Found better brand
+1482,145,20,2024-08-06,Privacy concerns
+1483,1916,20,2024-01-01,Privacy concerns
+1484,3505,20,2024-05-18,Privacy concerns
+1485,4592,20,2024-05-09,Privacy concerns
+1486,2713,20,2024-01-01,Privacy concerns
+1487,4186,20,2024-01-01,Found better brand
+1488,4863,20,2024-06-20,Too many emails
+1489,4354,20,2024-01-01,Not relevant
+1490,4261,20,2024-01-01,Not relevant
+1491,81,20,2024-01-01,Found better brand
+1492,2127,20,2024-01-01,Other
+1493,3794,20,2024-04-11,Other
+1494,1134,20,2024-01-01,Found better brand
+1495,1658,20,2024-02-20,Found better brand
+1496,4166,20,2024-01-01,Other
+1497,4996,20,2024-01-01,Not relevant
+1498,37,20,2024-03-05,Not relevant
+1499,4187,20,2024-01-01,Not relevant
+1500,4971,20,2024-01-01,Too many emails
+1501,3643,20,2024-01-01,Too many emails
+1502,412,20,2024-01-01,Privacy concerns
+1503,3349,20,2024-04-23,Privacy concerns
+1504,235,20,2024-01-01,Found better brand
+1505,3617,20,2024-06-19,Not relevant
+1506,3811,20,2024-03-15,Too many emails
+1507,2936,20,2024-06-15,Too many emails
+1508,3556,20,2024-01-01,Other
+1509,2402,20,2024-01-01,Not relevant
+1510,3226,20,2024-01-01,Other
+1511,3332,20,2024-07-27,Privacy concerns
+1512,1267,20,2024-06-29,Too many emails
+1513,3063,20,2024-08-04,Too many emails
+1514,2596,20,2024-01-01,Other
+1515,3033,20,2024-01-23,Not relevant
+1516,206,20,2024-06-13,Not relevant
